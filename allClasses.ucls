@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="poly_recognition.analysers.ExactAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/ExactAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="106" x="529" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="poly_recognition.Note" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/Note.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="50" x="906" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="poly_recognition.analysers.ExactMpnAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/ExactMpnAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="130" x="566" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="poly_recognition.sequences.ExactLengthSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/ExactLengthSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="152" x="1838" y="144"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="poly_recognition.sequences.ExactSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/ExactSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="113" x="1661" y="150"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="poly_recognition.analysers.Analyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/Analyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="76" x="662" y="121"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="poly_recognition.analysers.MpnTransAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/MpnTransAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="130" x="41" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="poly_recognition.filters.Filter" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/filters/Filter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="52" x="662" y="37"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="poly_recognition.patterns.MnnTransPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/MnnTransPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="122" x="1257" y="384"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="poly_recognition.analysers.ExactLengthAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/ExactLengthAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="145" x="381" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="poly_recognition.sequences.MpnTransSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/MpnTransSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="137" x="1683" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="poly_recognition.patterns.ExactPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/ExactPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="98" x="1368" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="poly_recognition.patterns.TransPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/TransPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="98" x="1230" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="poly_recognition.sequences.ExactMnnSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/ExactMnnSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="137" x="1727" y="234"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="poly_recognition.sequences.ExactMpnSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/ExactMpnSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="137" x="1920" y="214"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="poly_recognition.analysers.TransAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/TransAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="106" x="211" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="poly_recognition.sequences.MnnTransSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/MnnTransSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="137" x="1506" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="poly_recognition.patterns.ExactMnnPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/ExactMnnPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="122" x="1501" y="451"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="poly_recognition.DifferenceValue" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/DifferenceValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="114" x="906" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="poly_recognition.readers.MusicReader" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/readers/MusicReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="99" x="675" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="poly_recognition.PatternValue" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/PatternValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="97" x="977" y="393"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="poly_recognition.Time" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/Time.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="52" x="814" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="poly_recognition.patterns.Pattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/Pattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="66" x="1233" y="129"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="poly_recognition.patterns.MpnTransPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/MpnTransPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="122" x="1124" y="386"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="poly_recognition.Main" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="51" x="1060" y="121"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="poly_recognition.patterns.ExactLengthPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/ExactLengthPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="137" x="1549" y="392"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="poly_recognition.analysers.MnnTransAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/MnnTransAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="130" x="211" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="poly_recognition.readers.Reader" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/readers/Reader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="65" x="868" y="121"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="poly_recognition.analysers.ExactMnnAnalyser" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/analysers/ExactMnnAnalyser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="130" x="736" y="309"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="poly_recognition.sequences.TransSequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/TransSequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="113" x="1506" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="poly_recognition.readers.InformationReader" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/readers/InformationReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="130" x="1060" y="205"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="poly_recognition.patterns.ExactMpnPattern" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/patterns/ExactMpnPattern.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="122" x="1369" y="452"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="poly_recognition.Occurrence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/Occurrence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="92" x="1104" y="307"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="poly_recognition.sequences.Sequence" project="poly_project4" 
+    file="/poly_project4/src/poly_recognition/sequences/Sequence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="81" x="1473" y="127"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="38">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="42">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="43" name="reader"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="1067" y="309"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="46" name="patValues"/>      
+      <multiplicity id="47" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="49">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="50" name="reader"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <realization id="53">    
+    <bendpoint x="986" y="309"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="57">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="58" name="specific"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="63">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="64" name="values"/>      
+      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="67" name="occs"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="69">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="72">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="73" name="current"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="76">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="77" name="analyser"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="80">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="81" name="notes"/>      
+      <multiplicity id="82" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="84">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="85" name="previous"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="88" name="basePat"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="90">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="91">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="92" name="generals"/>      
+      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="95">    
+    <bendpoint x="1346" y="205"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="96" name="curOcc"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="98">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="99">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="100" name="curPat"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="true" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
